@@ -2,9 +2,9 @@
 
 **Every master's programme in artificial intelligence, machine learning, and data science at Dutch research universities — with how admissions actually work, what it costs, and how to choose.**
 
-![Last verified](https://img.shields.io/badge/last_verified-July_2026-1E3A5F)
-![Links checked weekly](https://img.shields.io/badge/links-checked_weekly-1E3A5F)
-[![License: MIT](https://img.shields.io/badge/license-MIT-1E3A5F)](LICENSE)
+![Last verified](https://mohammadi.cv/assets/badges/verified-2026-07.svg)
+![Links checked weekly](https://mohammadi.cv/assets/badges/links-weekly.svg)
+[![License: MIT](https://mohammadi.cv/assets/badges/license-mit.svg)](LICENSE)
 
 The Netherlands has one of the densest AI education landscapes in Europe: a dozen research universities within two hours of each other, nearly everything taught in English, and tuition far below UK/US levels for EU students. It is also confusing from the outside — programme names overlap, half the good options are "specialisations" hiding inside broader degrees, and the deadlines are earlier than most applicants expect.
 
