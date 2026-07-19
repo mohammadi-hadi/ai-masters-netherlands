@@ -52,7 +52,7 @@ More applied, often one year (60 EC) — which makes several of them popular con
 | University of Amsterdam | MSc Data Science (Information Studies) | Amsterdam | 1 yr | [Programme page](https://www.uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html) |
 | Eindhoven University of Technology | MSc Data Science and Artificial Intelligence | Eindhoven | 2 yrs | [Programme page](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence) |
 | Radboud University | MSc Data Science and AI (within Computing Science) | Nijmegen | 2 yrs | [Programme page](https://www.ru.nl/en/education/masters/data-science-and-ai) |
-| Leiden University | MSc Statistics & Data Science | Leiden | 2 yrs | [Programme page](https://www.universiteitleiden.nl/en/education/study-programmes/master/statistics-and-data-science) |
+| Leiden University | MSc Statistics & Data Science | Leiden | 2 yrs | [Programme page](https://www.universiteitleiden.nl/en/education/study-programmes/master/statistics--data-science) |
 | Maastricht University | MSc Data Science for Decision Making | Maastricht | 2 yrs | [Programme page](https://www.maastrichtuniversity.nl/education/master/programmes/data-science-decision-making) |
 | Tilburg University | MSc Data Science & Society | Tilburg | 1 yr | [Programme page](https://www.tilburguniversity.edu/education/masters-programs/data-science-and-society) |
 | Tilburg University | MSc Cognitive Science & Artificial Intelligence | Tilburg | 1 yr | [Programme page](https://www.tilburguniversity.edu/education/masters-programs/cognitive-science-and-artificial-intelligence) |
