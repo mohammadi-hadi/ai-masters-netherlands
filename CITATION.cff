@@ -7,6 +7,11 @@ authors:
     given-names: Hadi
     orcid: "https://orcid.org/0000-0003-0860-9200"
     affiliation: "Utrecht University"
+doi: 10.5281/zenodo.21837423
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21837422
+    description: "DOI for all versions; resolves to the latest release"
 license: MIT
 repository-code: "https://github.com/mohammadi-hadi/ai-masters-netherlands"
 abstract: "Every AI, machine learning, and data science master's programme at Dutch research universities — admissions, costs, deadlines, and how to choose."

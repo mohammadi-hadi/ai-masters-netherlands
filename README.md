@@ -5,6 +5,7 @@
 ![Last verified](https://mohammadi.cv/assets/badges/verified-2026-07.svg)
 ![Links checked weekly](https://mohammadi.cv/assets/badges/links-weekly.svg)
 [![License: MIT](https://mohammadi.cv/assets/badges/license-mit.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21837422.svg)](https://doi.org/10.5281/zenodo.21837422)
 
 The Netherlands has one of the densest AI education landscapes in Europe: a dozen research universities within two hours of each other, nearly everything taught in English, and tuition far below UK/US levels for EU students. It is also confusing from the outside — programme names overlap, half the good options are "specialisations" hiding inside broader degrees, and the deadlines are earlier than most applicants expect.
 
@@ -159,10 +160,12 @@ If this guide is useful in your work, please cite it (see [CITATION.cff](CITATIO
 
 ```bibtex
 @misc{mohammadi_ai_masters_netherlands,
-  author = {Mohammadi, Hadi},
-  title  = {AI Master's Programmes in the Netherlands},
-  year   = {2026},
-  url    = {https://github.com/mohammadi-hadi/ai-masters-netherlands}
+  author    = {Mohammadi, Hadi},
+  title     = {AI Master's Programmes in the Netherlands},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21837422},
+  url       = {https://github.com/mohammadi-hadi/ai-masters-netherlands}
 }
 ```
 
