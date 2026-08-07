@@ -10,3 +10,5 @@ authors:
 license: MIT
 repository-code: "https://github.com/mohammadi-hadi/ai-masters-netherlands"
 abstract: "Every AI, machine learning, and data science master's programme at Dutch research universities — admissions, costs, deadlines, and how to choose."
+version: 1.1.0
+date-released: "2026-08-07"
