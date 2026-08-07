@@ -153,6 +153,19 @@ EU students: freely. Non-EU students: capped part-time hours with a work permit 
 
 Spotted an out-of-date fee, a renamed programme, or a missing one? See [CONTRIBUTING.md](CONTRIBUTING.md) — corrections are very welcome; official programme pages are the only accepted source.
 
+## Citation
+
+If this guide is useful in your work, please cite it (see [CITATION.cff](CITATION.cff)):
+
+```bibtex
+@misc{mohammadi_ai_masters_netherlands,
+  author = {Mohammadi, Hadi},
+  title  = {AI Master's Programmes in the Netherlands},
+  year   = {2026},
+  url    = {https://github.com/mohammadi-hadi/ai-masters-netherlands}
+}
+```
+
 ## License
 
 [MIT](LICENSE) — maintained by [Hadi Mohammadi](https://mohammadi.cv) (PhD, Utrecht University; ML scientist in the Netherlands). Details verified against official pages in July 2026; fees and deadlines change yearly — always confirm on the programme page.
