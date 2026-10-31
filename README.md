@@ -40,6 +40,7 @@ The classic route: two-year (120 EC) research-oriented programmes covering machi
 | University of Groningen | MSc Artificial Intelligence | Groningen | 2 yrs | [Programme page](https://www.rug.nl/masters/artificial-intelligence/) |
 | Radboud University | MSc Artificial Intelligence | Nijmegen | 2 yrs | [Programme page](https://www.ru.nl/en/education/masters/artificial-intelligence) |
 | Maastricht University | MSc Artificial Intelligence | Maastricht | 2 yrs | [Programme page](https://www.maastrichtuniversity.nl/education/master/programmes/artificial-intelligence) |
+| Eindhoven University of Technology | MSc Artificial Intelligence and Engineering Systems | Eindhoven | 2 yrs | [Programme page](https://www.tue.nl/en/education/graduate-school/master-artificial-intelligence-and-engineering-systems) |
 | Open Universiteit | Master Artificial Intelligence (part-time, **Dutch-taught**) | Distance | 60 EC part-time | [Programme page](https://www.ou.nl/artificialintelligence) |
 
 Notes that matter:
@@ -57,6 +58,7 @@ More applied, often one year (60 EC) — which makes several of them popular con
 | Utrecht University | MSc Applied Data Science | Utrecht | 1 yr | [Programme page](https://www.uu.nl/en/masters/applied-data-science) |
 | University of Amsterdam | MSc Data Science (Information Studies) | Amsterdam | 1 yr | [Programme page](https://www.uva.nl/shared-content/programmas/en/masters/information-studies-data-science/data-science.html) |
 | Eindhoven University of Technology | MSc Data Science and Artificial Intelligence | Eindhoven | 2 yrs | [Programme page](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence) |
+| TU Delft | MSc Data Science and Artificial Intelligence Technology | Delft | 2 yrs | [Programme page](https://www.tudelft.nl/en/education/programmes/masters/dsait/msc-data-science-and-artificial-intelligence-technology) |
 | Radboud University | MSc Data Science and AI (within Computing Science) | Nijmegen | 2 yrs | [Programme page](https://www.ru.nl/en/education/masters/data-science-and-ai) |
 | Leiden University | MSc Statistics & Data Science | Leiden | 2 yrs | [Programme page](https://www.universiteitleiden.nl/en/education/study-programmes/master/statistics--data-science) |
 | Maastricht University | MSc Data Science for Decision Making | Maastricht | 2 yrs | [Programme page](https://www.maastrichtuniversity.nl/education/master/programmes/data-science-decision-making) |
@@ -87,7 +89,7 @@ Excellent routes into AI/ML work that don't carry the label. Employers in the Ne
 | Vrije Universiteit Amsterdam | MSc Business Analytics | Amsterdam | 2 yrs | [Programme page](https://vu.nl/en/education/master/business-analytics) |
 | University of Amsterdam | MSc Data Science and Business Analytics | Amsterdam | 1 yr | [Programme page](https://www.uva.nl/en/programmes/masters/data-science-and-business-analytics/data-science-and-business-analytics.html) |
 
-Delft deserves a special note: it has no standalone "AI master", which misleads people into skipping it — yet its Computer Science, Robotics, and various engineering masters produce some of the strongest ML profiles in the country. If you want ML applied to physical systems, start there.
+Delft deserves a special note. Its AI master is Data Science and Artificial Intelligence Technology, listed with the data science programmes above, and its Computer Science, Robotics and engineering masters produce some of the strongest ML profiles in the country. If you want ML applied to physical systems, start there.
 
 ## How Dutch admissions work
 
