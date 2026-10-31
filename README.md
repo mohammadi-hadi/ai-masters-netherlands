@@ -93,13 +93,13 @@ Delft deserves a special note. Its AI master is Data Science and Artificial Inte
 
 ## How Dutch admissions work
 
-**University types.** The Netherlands distinguishes research universities (WO) from universities of applied sciences (HBO). Everything above is WO. If your bachelor is from an HBO institution (or a foreign equivalent of one), most WO masters will require a **pre-master** — typically 30–60 EC of bridging courses — first.
+**University types.** The Netherlands distinguishes research universities (WO) from universities of applied sciences (HBO). Everything above is WO. If your bachelor is from an HBO institution (or a foreign equivalent of one), many WO masters ask for a **pre-master** first, typically 30–60 EC of bridging courses. Some offer none: Amsterdam's AI master says it declines to provide one, so read the admission page before you count on it.
 
-**Degree fit beats grades.** Dutch admissions are mostly about whether your bachelor covered the required material (math, programming, statistics — programme pages list exact expectations), not about beating a GPA cutoff. AI programmes are the strictest; one-year data-science conversions the most flexible.
+**Degree fit comes first.** Dutch admissions start from whether your bachelor covered the required material: programme pages list the minimum credits per subject (math, programming, statistics). Many add a grade threshold on top, such as a 6.5 Dutch average for Amsterdam's AI master or 75% for Delft's Computer Science. AI programmes are the strictest; one-year data-science conversions the most flexible.
 
 **Deadlines are earlier than you think.**
 
-- Programmes with a **capped intake (numerus fixus)** close in **mid-January** via Studielink — several AI masters fall in this category in any given year; check the programme page early.
+- Some programmes cap their intake, and a cap doesn't fix the date: Amsterdam's AI master admits at most 200 and still closes on 31 January for non-EU/EEA applicants and 30 April for EU/EEA ones. The earliest dates are around **15 January**, for example TU Delft's for non-EU/EFTA applicants to several of its masters. Check each programme page early.
 - Non-EU/EEA applicants: typically **January–April**, driven by visa processing.
 - EU/EEA applicants: often **April–June**, but scholarship deadlines are months earlier.
 
